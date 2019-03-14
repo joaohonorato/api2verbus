@@ -13,7 +13,7 @@ Maven
 
 Para rodar:
 ```
-mvn clean insta
+mvn clean install
 spring-boot:run
 ```
 
